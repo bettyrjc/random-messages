@@ -1,0 +1,22 @@
+{
+  "name": "random.mdg",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "messages",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Betty jimenez",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
