@@ -16,7 +16,15 @@
   "author": "Betty jimenez",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bettyrjc/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bettyrjc/random-messages/issues"
+  },
+  "homepage": "https://github.com/bettyrjc/random-messages#readme"
 }
